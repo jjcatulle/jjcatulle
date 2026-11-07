@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="JC - Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#111c33"/>
+      <stop offset="1" stop-color="#16243f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+
+  <!-- circuit-trace motif on the right -->
+  <g fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.55">
+    <path d="M820 70 H930 L960 100 H1080"/>
+    <path d="M860 150 H1000 L1030 120 H1130"/>
+    <path d="M800 230 H900 L930 200 H1040 L1070 230 H1140"/>
+    <path d="M960 100 V150"/>
+    <path d="M930 200 V150"/>
+  </g>
+  <g fill="#38bdf8">
+    <circle cx="820" cy="70" r="5"/><circle cx="1080" cy="100" r="5"/>
+    <circle cx="860" cy="150" r="5"/><circle cx="1130" cy="120" r="5"/>
+    <circle cx="800" cy="230" r="5"/><circle cx="1140" cy="230" r="5"/>
+  </g>
+
+  <text x="80" y="150" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="96" font-weight="800" fill="#f8fafc" letter-spacing="2">JC</text>
+  <rect x="84" y="172" width="120" height="6" rx="3" fill="url(#accent)"/>
+  <text x="80" y="218" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#e2e8f0">Software Engineer</text>
+  <text x="80" y="254" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#94a3b8">Full-Stack · Mobile · Machine Learning · Python · JavaScript · Java</text>
+</svg>
