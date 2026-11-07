@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Thanks for stopping by. Let's build something.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070a1f"/><stop offset="1" stop-color="#1a0b33"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity="0.035"/></pattern>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="bigGlow" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+  .blink{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+  .pulse{animation:pulse 2.6s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+  .scan{animation:scan 4s linear infinite}@keyframes scan{from{transform:translateX(-200px)}to{transform:translateX(1400px)}}
+</style>
+<rect width="1200" height="170" rx="16" fill="url(#bg)"/>
+<g stroke="#e879f9" stroke-opacity="0.45" stroke-width="1.2">
+<line x1="600" y1="70" x2="-1800" y2="170"/>
+<line x1="600" y1="70" x2="-1680" y2="170"/>
+<line x1="600" y1="70" x2="-1560" y2="170"/>
+<line x1="600" y1="70" x2="-1440" y2="170"/>
+<line x1="600" y1="70" x2="-1320" y2="170"/>
+<line x1="600" y1="70" x2="-1200" y2="170"/>
+<line x1="600" y1="70" x2="-1080" y2="170"/>
+<line x1="600" y1="70" x2="-960" y2="170"/>
+<line x1="600" y1="70" x2="-840" y2="170"/>
+<line x1="600" y1="70" x2="-720" y2="170"/>
+<line x1="600" y1="70" x2="-600" y2="170"/>
+<line x1="600" y1="70" x2="-480" y2="170"/>
+<line x1="600" y1="70" x2="-360" y2="170"/>
+<line x1="600" y1="70" x2="-240" y2="170"/>
+<line x1="600" y1="70" x2="-120" y2="170"/>
+<line x1="600" y1="70" x2="0" y2="170"/>
+<line x1="600" y1="70" x2="120" y2="170"/>
+<line x1="600" y1="70" x2="240" y2="170"/>
+<line x1="600" y1="70" x2="360" y2="170"/>
+<line x1="600" y1="70" x2="480" y2="170"/>
+<line x1="600" y1="70" x2="600" y2="170"/>
+<line x1="600" y1="70" x2="720" y2="170"/>
+<line x1="600" y1="70" x2="840" y2="170"/>
+<line x1="600" y1="70" x2="960" y2="170"/>
+<line x1="600" y1="70" x2="1080" y2="170"/>
+<line x1="600" y1="70" x2="1200" y2="170"/>
+<line x1="600" y1="70" x2="1320" y2="170"/>
+<line x1="600" y1="70" x2="1440" y2="170"/>
+<line x1="600" y1="70" x2="1560" y2="170"/>
+<line x1="600" y1="70" x2="1680" y2="170"/>
+<line x1="600" y1="70" x2="1800" y2="170"/>
+<line x1="600" y1="70" x2="1920" y2="170"/>
+<line x1="600" y1="70" x2="2040" y2="170"/>
+<line x1="600" y1="70" x2="2160" y2="170"/>
+<line x1="600" y1="70" x2="2280" y2="170"/>
+<line x1="600" y1="70" x2="2400" y2="170"/>
+<line x1="600" y1="70" x2="2520" y2="170"/>
+<line x1="600" y1="70" x2="2640" y2="170"/>
+<line x1="600" y1="70" x2="2760" y2="170"/>
+<line x1="600" y1="70" x2="2880" y2="170"/>
+<line x1="0" y1="73" x2="1200" y2="73"/>
+<line x1="0" y1="80" x2="1200" y2="80"/>
+<line x1="0" y1="92" x2="1200" y2="92"/>
+<line x1="0" y1="110" x2="1200" y2="110"/>
+<line x1="0" y1="135" x2="1200" y2="135"/>
+<line x1="0" y1="168" x2="1200" y2="168"/>
+</g>
+<rect width="1200" height="70" fill="#070a1f"/>
+<line x1="0" y1="70" x2="1200" y2="70" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
+<text x="600" y="46" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" fill="#22d3ee" filter="url(#glow)">&gt; thanks for stopping by · let's build something</text>
+<rect x="896" y="30" width="11" height="20" fill="#22d3ee" class="blink"/>
+<rect x="1" y="1" width="1198" height="168" rx="15" fill="none" stroke="url(#neon)" stroke-width="2" opacity="0.7"/>
+</svg>

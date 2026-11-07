@@ -1,60 +1,63 @@
 <p align="center">
-  <img src="./banner.svg" alt="JC - Software Engineer" width="100%"/>
+  <img src="./banner.svg" alt="JC, Software Engineer, coding at a futuristic neon desk" width="100%"/>
 </p>
 
-# Hi, I'm JC 👋
+<p align="center">
+  <img src="./assets/h-about.svg" alt="About me" width="100%"/>
+</p>
 
-**Software Engineer · Full-Stack, Mobile & Data**
+<p align="center">
+  <img src="./assets/about.svg" alt="JC is a Software Engineer who builds web and mobile apps, API integrations and machine learning models in Python, JavaScript and Java. Engineering background in robotics, circuit design tools and serial-device scripting. Writing code since 2018. Open to Software Engineer roles: remote, hybrid or on-site." width="100%"/>
+</p>
 
-I build web and mobile applications, API integrations, and machine learning models, mostly in Python, JavaScript, and Java. My background is in engineering, so I've also worked close to the hardware: robotics, circuit design tools, and scripting against serial devices. I've been writing code since 2018.
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
-💼 Open to Software Engineer roles (remote / hybrid / on-site)
+<p align="center">
+  <img src="./assets/h-skills.svg" alt="Tech stack" width="100%"/>
+</p>
 
----
+<p align="center">
+  <img src="./assets/skills.svg" alt="Languages: Python, JavaScript, Java. Frontend: React, Material UI, React Router, HTML/CSS, Sass. Backend: Node.js, Express, REST APIs, Google Maps API, Discord API, Twitter API. Data and ML: pandas, NumPy, scikit-learn, Matplotlib, Jupyter, MongoDB. Mobile: Android (Java), Flutter. Tools: Git, Firebase, Heroku, Linux." width="100%"/>
+</p>
 
-## Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,nodejs,express,react,materialui,sass,mongodb,androidstudio,flutter,firebase,heroku,git,linux&theme=dark&perline=15" alt="Tech icons"/>
+</p>
 
-| Area | Tools |
-|---|---|
-| **Languages** | Python, JavaScript, Java |
-| **Frontend** | React, Material UI, React Router, HTML / CSS / Sass |
-| **Backend** | Node.js, Express, REST APIs, third-party API integrations (Google Maps, Discord, Twitter) |
-| **Data & ML** | pandas, NumPy, scikit-learn, Matplotlib, Jupyter, MongoDB |
-| **Mobile** | Android (Java), Flutter |
-| **Tools** | Git, Firebase, Heroku, Linux |
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
----
+<p align="center">
+  <img src="./assets/h-projects.svg" alt="Featured projects" width="100%"/>
+</p>
 
-## Featured projects
+<p align="center">
+  <a href="https://github.com/jjcatulle/data-science"><img src="./assets/card-ml.svg" alt="End-to-end machine learning: heart disease classifier and bulldozer price regression with scikit-learn" width="49%"/></a>
+  <a href="https://github.com/jjcatulle/icey-gk-panda-website"><img src="./assets/card-web.svg" alt="Full-stack client website with React, Express, MongoDB and Heroku" width="49%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/jjcatulle/NoTOYOTV1"><img src="./assets/card-mobile.svg" alt="Social app built natively for Android in Java, then rebuilt in Flutter with Firebase" width="49%"/></a>
+  <a href="https://github.com/jjcatulle/Irobot"><img src="./assets/card-robotics.svg" alt="Robotics and electrical engineering tools: iRobot Create over serial, band-pass filter and timer-circuit calculators" width="49%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/jjcatulle/Elevation-Scraper"><img src="./assets/card-api.svg" alt="API integrations: Google Maps elevation scraper and a Discord-to-Twitter auto-poster" width="49%"/></a>
+  <a href="https://github.com/jjcatulle/rhodes-gate"><img src="./assets/card-frontend.svg" alt="Front-end work: responsive React and Material UI sites and a Sass portfolio layout" width="49%"/></a>
+</p>
 
-### 🩺 End-to-end machine learning projects · [repo](https://github.com/jjcatulle/data-science)
-**Python · pandas · scikit-learn · Matplotlib**
-- **Heart disease classification:** exploratory analysis, then a comparison of Logistic Regression, KNN, and Random Forest. Tuned with GridSearchCV and RandomizedSearchCV and evaluated with precision, recall, F1, ROC, and confusion matrices.
-- **Bulldozer price regression:** feature engineering from sale dates on a large tabular dataset, handling missing values, and a Random Forest regressor tuned with RandomizedSearchCV and scored on RMSLE.
-- Supporting notebooks covering NumPy, pandas, Matplotlib, and scikit-learn fundamentals.
+<p align="center">
+  <a href="https://github.com/jjcatulle/data-science"><img src="https://img.shields.io/badge/data--science-0b0f2a?style=for-the-badge&logo=github&logoColor=22d3ee&labelColor=0b0f2a&color=0b0f2a" alt="data-science"/></a>
+  <a href="https://github.com/jjcatulle/icey-gk-panda-website"><img src="https://img.shields.io/badge/client--website-0b0f2a?style=for-the-badge&logo=github&logoColor=f472b6" alt="client website"/></a>
+  <a href="https://github.com/jjcatulle/NoTOYOTV1"><img src="https://img.shields.io/badge/android--app-0b0f2a?style=for-the-badge&logo=android&logoColor=a78bfa" alt="android app"/></a>
+  <a href="https://github.com/jjcatulle/oyot_2.1"><img src="https://img.shields.io/badge/flutter--app-0b0f2a?style=for-the-badge&logo=flutter&logoColor=a78bfa" alt="flutter app"/></a>
+  <a href="https://github.com/jjcatulle/Irobot"><img src="https://img.shields.io/badge/irobot-0b0f2a?style=for-the-badge&logo=python&logoColor=facc15" alt="Irobot"/></a>
+  <a href="https://github.com/jjcatulle/BPF-Circuit"><img src="https://img.shields.io/badge/bpf--circuit-0b0f2a?style=for-the-badge&logo=javascript&logoColor=facc15" alt="BPF-Circuit"/></a>
+  <a href="https://github.com/jjcatulle/Elevation-Scraper"><img src="https://img.shields.io/badge/elevation--scraper-0b0f2a?style=for-the-badge&logo=googlemaps&logoColor=4ade80" alt="Elevation-Scraper"/></a>
+  <a href="https://github.com/jjcatulle/discord-to-twitter-success"><img src="https://img.shields.io/badge/discord--to--twitter-0b0f2a?style=for-the-badge&logo=discord&logoColor=4ade80" alt="discord-to-twitter"/></a>
+  <a href="https://github.com/jjcatulle/rhodes-gate"><img src="https://img.shields.io/badge/rhodes--gate-0b0f2a?style=for-the-badge&logo=react&logoColor=22d3ee" alt="rhodes-gate"/></a>
+  <a href="https://github.com/jjcatulle/jjcatulle.github.io"><img src="https://img.shields.io/badge/portfolio--layout-0b0f2a?style=for-the-badge&logo=sass&logoColor=22d3ee" alt="portfolio layout"/></a>
+</p>
 
-### 🌐 Full-stack client website · [repo](https://github.com/jjcatulle/icey-gk-panda-website)
-**React · Node.js / Express · MongoDB · Heroku**
+<p align="center"><img src="./assets/divider.svg" alt="" width="100%"/></p>
 
-A website built for a client: React frontend, Express REST API, MongoDB persistence, and a single build-and-deploy pipeline to Heroku.
-
-### 📱 Social media app, Android → Flutter · [v1](https://github.com/jjcatulle/NoTOYOTV1) · [v2](https://github.com/jjcatulle/oyot_2.1)
-**Java · Android SDK · Flutter · Firebase**
-
-A native Android app with user registration and login, profile setup, posting, and drawer navigation. I later rebuilt it cross-platform in Flutter and deployed it to Firebase Hosting.
-
-### 🤖 Robotics & electrical engineering tools
-**Python · JavaScript**
-- [**Irobot**](https://github.com/jjcatulle/Irobot): controls an iRobot Create over serial with Python and pyserial.
-- [**BPF-Circuit**](https://github.com/jjcatulle/BPF-Circuit): web calculator for designing band-pass filter circuits.
-- [**intergrated-electronics-lab-8**](https://github.com/jjcatulle/intergrated-electronics-lab-8): computes timer-circuit resistor and capacitor values from a target frequency.
-
-### 🔌 API integrations & data collection
-**Node.js · Python**
-- [**Elevation-Scraper**](https://github.com/jjcatulle/Elevation-Scraper): bulk-collects elevation data from the Google Maps API by latitude and longitude. I used it to build a 3D model of Mt. Everest for multivariable calculus.
-- [**discord-to-twitter-success**](https://github.com/jjcatulle/discord-to-twitter-success): service that watches a Discord channel and automatically posts its images to Twitter, deployed on Heroku.
-
-### 💻 Front-end work · [rhodes-gate](https://github.com/jjcatulle/rhodes-gate) · [portfolio layout](https://github.com/jjcatulle/jjcatulle.github.io)
-**React · Material UI · React Router · Sass**
-
-Responsive single-page sites with component-based UI, client-side routing, and modern CSS layout.
+<p align="center">
+  <img src="./assets/footer.svg" alt="Thanks for stopping by. Let's build something." width="100%"/>
+</p>
