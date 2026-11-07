@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="JC, Software Engineer, working at his desk at night" width="100%"/>
+  <img src="./banner.svg?v=2" alt="JC, Software Engineer, working at his desk at night" width="100%"/>
 </p>
 
 ## About
@@ -26,12 +26,12 @@ I'm a software engineer who builds web and mobile applications, API integrations
 ## Featured projects
 
 <p align="center">
-  <a href="https://github.com/jjcatulle/data-science"><img src="./assets/card-ml.svg" alt="Machine learning projects: heart disease classifier and bulldozer price regression with scikit-learn" width="49%"/></a>
-  <a href="https://github.com/jjcatulle/icey-gk-panda-website"><img src="./assets/card-web.svg" alt="Full-stack client website with React, Express and MongoDB" width="49%"/></a>
-  <a href="https://github.com/jjcatulle/NoTOYOTV1"><img src="./assets/card-mobile.svg" alt="Social app built natively for Android, then rebuilt in Flutter" width="49%"/></a>
-  <a href="https://github.com/jjcatulle/Irobot"><img src="./assets/card-robotics.svg" alt="Robotics and engineering tools: iRobot Create over serial, circuit design calculators" width="49%"/></a>
-  <a href="https://github.com/jjcatulle/Elevation-Scraper"><img src="./assets/card-api.svg" alt="API integrations: Google Maps elevation collector and Discord-to-Twitter service" width="49%"/></a>
-  <a href="https://github.com/jjcatulle/rhodes-gate"><img src="./assets/card-frontend.svg" alt="Front-end development with React, Material UI and Sass" width="49%"/></a>
+  <a href="https://github.com/jjcatulle/data-science"><img src="./assets/card-ml.svg?v=2" alt="Machine learning projects: heart disease classifier and bulldozer price regression with scikit-learn" width="49%"/></a>
+  <a href="https://github.com/jjcatulle/icey-gk-panda-website"><img src="./assets/card-web.svg?v=2" alt="Full-stack client website with React, Express and MongoDB" width="49%"/></a>
+  <a href="https://github.com/jjcatulle/NoTOYOTV1"><img src="./assets/card-mobile.svg?v=2" alt="Social app built natively for Android, then rebuilt in Flutter" width="49%"/></a>
+  <a href="https://github.com/jjcatulle/Irobot"><img src="./assets/card-robotics.svg?v=2" alt="Robotics and engineering tools: iRobot Create over serial, circuit design calculators" width="49%"/></a>
+  <a href="https://github.com/jjcatulle/Elevation-Scraper"><img src="./assets/card-api.svg?v=2" alt="API integrations: Google Maps elevation collector and Discord-to-Twitter service" width="49%"/></a>
+  <a href="https://github.com/jjcatulle/rhodes-gate"><img src="./assets/card-frontend.svg?v=2" alt="Front-end development with React, Material UI and Sass" width="49%"/></a>
 </p>
 
 **Related repositories:** [oyot_2.1](https://github.com/jjcatulle/oyot_2.1) (Flutter rebuild) · [BPF-Circuit](https://github.com/jjcatulle/BPF-Circuit) · [discord-to-twitter-success](https://github.com/jjcatulle/discord-to-twitter-success) · [jjcatulle.github.io](https://github.com/jjcatulle/jjcatulle.github.io)
