@@ -4,7 +4,7 @@
 
 ## About
 
-I'm a software engineer who builds web and mobile applications, API integrations, and machine learning models, mostly in **Python**, **JavaScript**, and **Java**. My background is in engineering, so I've also worked close to the hardware: robotics, circuit design tools, and scripting against serial devices. I've been writing code since 2018.
+I'm a software engineer who builds web and mobile applications, API integrations, and machine learning models, mostly in **Python**, **JavaScript**, and **Java**. My background is in engineering, so I've also worked close to the hardware: robotics, circuit design tools, and scripting against serial devices. I've been writing code since 2013.
 
 **Open to Software Engineer roles** (remote, hybrid, or on-site).
 
