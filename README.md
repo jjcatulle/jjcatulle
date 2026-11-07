@@ -14,7 +14,7 @@ I build web and mobile applications, API integrations, and machine learning mode
 
 ## Skills
 
-| | |
+| Area | Tools |
 |---|---|
 | **Languages** | Python, JavaScript, Java |
 | **Frontend** | React, Material UI, React Router, HTML / CSS / Sass |
